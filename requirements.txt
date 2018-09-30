@@ -1,0 +1,12 @@
+asyncio
+aiohttp
+aiopg[sa]
+aiohttp-jinja2
+trafaret-config
+flake8
+pytest
+pytest-aiohttp
+marshmallow
+marshmallow_polyfield
+structlog
+dataclasses
