@@ -10,3 +10,4 @@ marshmallow
 marshmallow_polyfield
 structlog
 dataclasses
+trafaret_config
