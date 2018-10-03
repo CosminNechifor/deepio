@@ -38,8 +38,6 @@ TRAFARET = T.Dict({
     T.Key('port'): T.Int(),
 })
 
-__all__ = ['title_table', 'user_table']
-
 meta = MetaData()
 
 title_table = Table(
